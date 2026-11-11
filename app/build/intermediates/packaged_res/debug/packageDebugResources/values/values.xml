@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Desarrollo de Apps Unidad 3</string>
+    <string name="back">Volver</string>
+    <string name="converter_amount">Cantidad</string>
+    <string name="converter_button">Convertir</string>
+    <string name="converter_error">Ingresa una cantidad mayor a 0</string>
+    <string name="converter_from">Moneda de origen</string>
+    <string name="converter_result">Resultado: %1$s</string>
+    <string name="converter_title">Convertidor de moneda</string>
+    <string name="converter_to">Moneda de destino</string>
+    <string name="home_converter">Convertidor de moneda</string>
+    <string name="home_loan">Calculadora de créditos</string>
+    <string name="home_subtitle">Elige un ejercicio</string>
+    <string name="home_title">Actividad de aprendizaje</string>
+    <string name="loan_button">Calcular</string>
+    <string name="loan_error_installments">Ingresa un número entero de cuotas mayor a 0</string>
+    <string name="loan_error_principal">Ingresa un valor mayor a 0</string>
+    <string name="loan_error_rate">Ingresa un interés válido (0 o más)</string>
+    <string name="loan_installments">Número de cuotas mensuales</string>
+    <string name="loan_principal">Valor del crédito</string>
+    <string name="loan_rate">Interés mensual (porcentaje)</string>
+    <string name="loan_result_installment">Valor por cuota: %1$s</string>
+    <string name="loan_result_profit">Ganancia total: %1$s</string>
+    <string name="loan_result_total">Valor total del crédito: %1$s</string>
+    <string name="loan_title">Calculadora de créditos</string>
+    <string name="loan_type">Tipo de cálculo</string>
+    <string name="loan_type_french">Cuota fija (sistema francés)</string>
+    <string name="loan_type_simple">Interés simple</string>
+    <style name="Theme.MyFirstApp" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
